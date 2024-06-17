@@ -19,12 +19,11 @@ The imaginary company sales their products in diffrent regions of contry through
 
 ### Overall Sales Analysis Report 
 
-![image]
-(https://user-images.githubusercontent.com/125534171/219423828-7b6a4f9e-40c2-4960-a02a-8c43588559b2.png)
+[image](https://user-images.githubusercontent.com/125534171/219423828-7b6a4f9e-40c2-4960-a02a-8c43588559b2.png)
 
 ### Year Wise Sales Analysis Reports
 
-###![image](https://user-images.githubusercontent.com/125534171/219425186-d6a7dfdd-4014-4ca0-bf01-234a1a7256d7.png)
+[image](https://user-images.githubusercontent.com/125534171/219425186-d6a7dfdd-4014-4ca0-bf01-234a1a7256d7.png)
 
 ###![image](https://user-images.githubusercontent.com/125534171/219425349-fcd64030-8104-4ac8-96f6-f699cc2b2e74.png)
 
